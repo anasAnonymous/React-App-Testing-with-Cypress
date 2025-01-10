@@ -13,8 +13,8 @@ dist-ssr
 *.local
 
 # Cypress
-cypress/screenshots/
-cypress/snapshots/
+cypress/screenshots
+cypress/snapshots
 
 # Editor directories and files
 .vscode/*

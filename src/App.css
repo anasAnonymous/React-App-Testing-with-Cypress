@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.card-container {
+  max-width: 400px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card-container form div {
+  margin-bottom: 15px;
+}
+
+.card-container label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.card-container input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.card-container button {
+  padding: 10px 15px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.card-container button:hover {
+  background-color: #218838;
+}
